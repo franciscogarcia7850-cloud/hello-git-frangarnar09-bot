@@ -1,3 +1,5 @@
+En esta practica instale y configure Git, clone el repositorio hello-git y use los comandos basicos. Lo que mas me sirvio fue entender que cada commit es un punto guardado del proyecto y que las ramas permiten probar cambios sin afectar la rama principa
+
 # Hello Git & GitHub🐙
 
 [![Git](https://img.shields.io/badge/Git-2.37+-f14e32?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)](https://git-scm.com/)
